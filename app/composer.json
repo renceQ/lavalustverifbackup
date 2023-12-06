@@ -1,0 +1,14 @@
+{
+    "name": "vendor/rence",
+    "description": "yeah",
+    "type": "y",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "license": "y",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Rence\\": "src/"
+        }
+    }
+}
